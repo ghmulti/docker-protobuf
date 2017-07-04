@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine:3.6
 
 MAINTAINER Oleksii Fedorov <waterlink000@gmail.com>
 
